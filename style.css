@@ -29,8 +29,8 @@ td {
 }
 
 th {
-  background-color: rgb(73, 2, 19);
-  color: white;
+  background-color: rgb(166, 29, 61);
+  color: rgb(24, 23, 23);
 }
 
 table {
@@ -87,10 +87,6 @@ table {
   margin-left: 115px;
 }
 
-#pro {
-  background-color: #3da61d;
-  padding: 4px;
-}
 .tdone {
   background-color: rgb(239, 239, 239);
   color: rgb(97, 99, 103);
@@ -119,7 +115,7 @@ span {
 .footer {
   width: 100%;
   height: 90px;
-  background-color: #3da61d;
+  background-color: rgb(166, 29, 61);
   margin-top: 20px;
   display: flex;
   border: 2px solid white;
@@ -131,6 +127,7 @@ span {
   padding: 5px;
   padding-top: 30px;
   padding-left: 10px;
+  color: rgb(24, 23, 23);
 }
 
 .inf {
@@ -138,14 +135,17 @@ span {
   height: 80px;
   padding: 6px;
   font-size: 13px;
+  color: rgb(24, 23, 23);
 }
 .inf h2 {
   font-size: 16px;
+  color: rgb(24, 23, 23);
 }
 
 .conf {
   display: flex;
   justify-content: center;
+  color: rgb(24, 23, 23);
 }
 
 .conf p {
